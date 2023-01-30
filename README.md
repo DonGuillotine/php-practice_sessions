@@ -7,5 +7,5 @@ I'm excited to show my old PHP practice sessions and coding challenges! As a pas
 
 ## What to Expect
 - Covered various topics in the PHP programming language
-- Hands-on coding exercises and challenges to apply what I've learnt
+- Hands-on Coding Exercises and Challenges to apply what I've learnt
 - Fully Commented code for easy understanding.
